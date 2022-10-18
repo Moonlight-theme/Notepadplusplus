@@ -2,31 +2,121 @@
     <img src="https://i.imgur.com/nVXWcZJ.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>New Moonlight Port</b> </h2>
-<p align="center">"The repo name" 🏕
+<h2 align="center"> <b>Moonlight Notepad++</b> </h2>
+<p align="center">"Notepadplusplus" 🏕
 </p>
 
 <br>
 <div align="center">
   
-![1](https://i.imgur.com/cWKJyF5.png)
+![1](/previews/1%20prev.png)
 
 </div>
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/ZGdXKdI.png"> Description</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla elit, in mollis mi sollicitudin sed. Aliquam auctor mauris lobortis tempor feugiat. Curabitur nec tempus lorem. Aenean condimentum et felis eget ultricies. Phasellus vulputate elit nibh, eu rhoncus augue rhoncus sit amet.
+A simple moonlight theme for Notepad++
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
-1. copy *file.css* and paste it to **folder\theme**
-2. run *app.exe*
-3. then... idk 😅
+1. download
+2. copy the file to `.\Notepad++\themes`
+3. then open notepad++ go to the settings tab and click on style configrator and pick moonlight from the dropdown menu
+
+### Extra
+
+in order to get the moonlight theme all over the app you need to do some further steps firstlly navigate to where notepad++ is installed and then open the filw called `config.xml` and go all the way to line `65` and replace it with this one:
+
+```
+<GUIConfig name="DarkMode" enable="yes" colorTone="32" customColorTop="2629401" customColorMenuHotTrack="3155743" customColorActive="3155743" customColorMain="3154975" customColorError="6842566" customColorText="13881024" customColorDarkText="11051160" customColorDisabledText="5654071" customColorLinkText="13020776" customColorEdge="5654071" customColorHotEdge="8152399" customColorDisabledEdge="6842566" />
+```
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/nlTtRn7.png"> Gallery</h2>
 
-```Delete this section if the preview was enough```
-  
+<p align="center">
+
+![](/previews/bash.png)
+
+<h3 align="center"> bash</h3>
+
+![](/previews/batch.png)
+
+<h3 align="center"> batch</h3>
+
+![](/previews/c%23.png)
+
+<h3 align="center"> c#</h3>
+
+![](/previews/c%2B%2B.png)
+
+<h3 align="center"> c++</h3>
+
+![](/previews/c.png)
+
+<h3 align="center"> c</h3>
+
+![](/previews/css.png)
+
+<h3 align="center"> css</h3>
+
+![](/previews/diff.png)
+
+<h3 align="center"> diff</h3>
+
+![](/previews/haskell.png)
+
+<h3 align="center"> haskell</h3>
+
+![](/previews/html.png)
+
+<h3 align="center"> html</h3>
+
+![](/previews/java.png)
+
+<h3 align="center"> java</h3>
+
+![](/previews/js.png)
+
+<h3 align="center"> js</h3>
+
+![](/previews/json.png)
+
+<h3 align="center"> json</h3>
+
+![](/previews/lua.png)
+
+<h3 align="center"> lua</h3>
+
+![](/previews/php.png)
+
+<h3 align="center"> php</h3>
+
+![](/previews/py.png)
+
+<h3 align="center"> python</h3>
+
+![](/previews/ruby.png)
+
+<h3 align="center"> ruby</h3>
+
+![](/previews/sql.png)
+
+<h3 align="center"> sql</h3>
+
+![](/previews/vb.png)
+
+<h3 align="center"> vb</h3>
+
+![](/previews/xml.png)
+
+<h3 align="center"> xml</h3>
+
+![](/previews/yml.png)
+
+<h3 align="center">yml</h3>
+
+
+</p>
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
 
 
