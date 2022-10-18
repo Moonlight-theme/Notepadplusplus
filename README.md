@@ -37,83 +37,143 @@ in order to get the moonlight theme all over the app you need to do some further
 
 ![](/previews/bash.png)
 
-<h3 align="center"> bash</h3>
+<h3 align="center"> bash</h3> 
+<br>
+<br>
+
 
 ![](/previews/batch.png)
 
-<h3 align="center"> batch</h3>
+<h3 align="center"> batch</h3> 
+<br>
+<br>
+
 
 ![](/previews/c%23.png)
 
-<h3 align="center"> c#</h3>
+<h3 align="center"> c#</h3> 
+<br>
+<br>
+
 
 ![](/previews/c%2B%2B.png)
 
-<h3 align="center"> c++</h3>
+<h3 align="center"> c++</h3> 
+<br>
+<br>
+
 
 ![](/previews/c.png)
 
-<h3 align="center"> c</h3>
+<h3 align="center"> c</h3> 
+<br>
+<br>
+
 
 ![](/previews/css.png)
 
-<h3 align="center"> css</h3>
+<h3 align="center"> css</h3> 
+<br>
+<br>
+
 
 ![](/previews/diff.png)
 
-<h3 align="center"> diff</h3>
+<h3 align="center"> diff</h3> 
+<br>
+<br>
+
 
 ![](/previews/haskell.png)
 
-<h3 align="center"> haskell</h3>
+<h3 align="center"> haskell</h3> 
+<br>
+<br>
+
 
 ![](/previews/html.png)
 
-<h3 align="center"> html</h3>
+<h3 align="center"> html</h3> 
+<br>
+<br>
+
 
 ![](/previews/java.png)
 
-<h3 align="center"> java</h3>
+<h3 align="center"> java</h3> 
+<br>
+<br>
+
 
 ![](/previews/js.png)
 
-<h3 align="center"> js</h3>
+<h3 align="center"> js</h3> 
+<br>
+<br>
+
 
 ![](/previews/json.png)
 
-<h3 align="center"> json</h3>
+<h3 align="center"> json</h3> 
+<br>
+<br>
+
 
 ![](/previews/lua.png)
 
-<h3 align="center"> lua</h3>
+<h3 align="center"> lua</h3> 
+<br>
+<br>
+
 
 ![](/previews/php.png)
 
-<h3 align="center"> php</h3>
+<h3 align="center"> php</h3> 
+<br>
+<br>
+
 
 ![](/previews/py.png)
 
-<h3 align="center"> python</h3>
+<h3 align="center"> python</h3> 
+<br>
+<br>
+
 
 ![](/previews/ruby.png)
 
-<h3 align="center"> ruby</h3>
+<h3 align="center"> ruby</h3> 
+<br>
+<br>
+
 
 ![](/previews/sql.png)
 
-<h3 align="center"> sql</h3>
+<h3 align="center"> sql</h3> 
+<br>
+<br>
+
 
 ![](/previews/vb.png)
 
-<h3 align="center"> vb</h3>
+<h3 align="center"> vb</h3> 
+<br>
+<br>
+
 
 ![](/previews/xml.png)
 
-<h3 align="center"> xml</h3>
+<h3 align="center"> xml</h3> 
+<br>
+<br>
+
 
 ![](/previews/yml.png)
 
-<h3 align="center">yml</h3>
+<h3 align="center">yml</h3> 
+<br>
+<br>
+
 
 
 </p>
